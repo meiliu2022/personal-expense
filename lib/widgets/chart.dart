@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 import '../models/transaction.dart';
 import 'package:intl/intl.dart';
-import '../widgets/chart_bar.dart';
 
 class Chart extends StatelessWidget {
 
