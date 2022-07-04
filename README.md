@@ -7,8 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Learning Points](#learning-points)
-<!-- * [License](#license) -->
 
 ## Technologies Used
 
@@ -27,9 +25,4 @@ The ready features are:
 
 ## Screenshots
 
-<img src="screenshots/expense.gif" width=240></br>
-
-## Learning Points
-
-- Learned foundamentals of Android such as layout, fragment and Animation library.
-- Learned how Java is applied in Android application.
+<img src="screenshots/expense.gif" width=240>
